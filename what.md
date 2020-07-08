@@ -12,3 +12,9 @@
 - packages 
 - codes 
 - config files 
+
+### i searched a lot about this error and what i found is i need to use one of these
+-"strictPropertyInitialization": false,
+-"strict": false,
+- id?:string this is working but it says hasId , softremove etc are missing 
+- id!:string
